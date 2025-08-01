@@ -1,0 +1,5 @@
+git init
+git commit -m “Mensagem do Commit”
+git diff
+git add nome-do-arquivo
+git log
