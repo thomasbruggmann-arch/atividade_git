@@ -1,3 +1,3 @@
-git init
-git commit
-git add
+git init - Inicializa um novo repositório Git em um diretório
+git commit - Cria um novo commit, salvando as alterações preparadas com uma mensagem descritiva
+git add -  Adiciona um arquivo específico ou todos os arquivos modificados à área de preparo, indicando que serão incluídos no próximo commi
